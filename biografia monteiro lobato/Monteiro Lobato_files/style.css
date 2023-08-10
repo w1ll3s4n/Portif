@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: #9ca8bc;
+}
+h1{
+    background-color: whitesmoke;
+    padding: 1%;
+}
+.texto{
+    background-color: #9ca8bc;
+    padding: 2%;
+    margin: 1%;
+}
+.cabecalho {
+    padding: 2%,0%,0%,15%;
+    background-color: blueviolet;
+    padding: 18px;
+}
+.cabecalho_menu {
+    display: flex;
+    gap:40%
+}
+.cabecalho_menu_link{
+    font-size: 0%;
+    text-decoration: none;
+    color: var(#9ca8bc);
+}
+.aprentacão {
+    display: flex;
+    justify-content: space-around;
+}
+@media only screen and(max-width:480px){
+.img{
+    width:100%
+
+}
+}
+.rodape{
+    width:10%;
+    padding-left: 10%,0%,10%,0%;
+    font-size: 5%;
+
+}

@@ -1,0 +1,28 @@
+.camiseta{
+    display: flex;
+}
+.camiseta__polo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img__camisetas{
+    width: 200px;
+    height: 200px;
+}
+.calçajeans{
+    display: flex;
+}
+.calçajeans{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img__calçajeans{
+    width: 200px;
+    height: 200;
+}
+
+}
